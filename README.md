@@ -1,4 +1,4 @@
-# cplusplus-simple-hanoi-tower
+# Hanoi Tower
 
 <h2>Introduction:</h2>
 This repository contains an implementation of the Tower of Hanoi problem in C++. The Tower of Hanoi is a classic mathematical puzzle that involves moving a stack of disks from one peg (tower) to another, subject to the constraint that only one disk can be moved at a time and no disk can be placed on top of a smaller disk.
